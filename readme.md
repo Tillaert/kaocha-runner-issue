@@ -167,7 +167,7 @@ Test results:  passes,  failures,  errors.
 ### polylith-kaocha
 
 
-The kaocha runner shows this as a test result. It does not show the compilation error, rather an error that it can't find the file which contains the error.
+The kaocha runner shows this as a test result. It does not show the compilation error, rather an error that it can't find the namespace which contains the error.
 
 ```bash
 Projects to run tests from: pr-kaocha
